@@ -145,3 +145,52 @@
 
 
 ## **Media clippings** - *Coupures de journaux*
+
+**Click on the thumbnail to view an enlarged image.**
+
+*Cliquez sur la vignette pour agrandir l'image.*
+
+<table>
+    <tr>
+        <td align="center">
+            <img src="./images/1930-12-29-LeSoleil.jpg" width="100"> <br/>
+            <b>Le Soleil, 29/12/1930</b><br/>
+        </td>
+        <td align="center">
+            <img src="./images/1930-12-30-LeSoleil.png" width="100"> <br/>
+            <b>Le Soleil, 30/12/1930</b><br/>
+        </td>
+        <td align="center">
+            <img src="./images/1931-01-10-CalgaryHerald.png" width="100"><br/>
+            <b>The Calgary Herald, 10/01/1931</b><br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="./images/1932-03-23-L-Evenement.png" width="100"> <br/>
+            <b>L'Événement, 23/03/1932</b><br/>
+        </td>
+        <td align="center">
+            <img src="./images/1932-03-23-LeSoleil.png" width="100"> <br/>
+            <b>Le Soleil, 23/03/1931</b><br/>
+        </td>
+        <td align="center">
+            <img src="./images/1932-03-24-TheGazette.png" width="100"><br/>
+            <b>The Gazette, 24/03/1932</b><br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="./images/1932-03-28-FallRiverHeraldNews.png" width="100"> <br/>
+            <b>Fall River Herald News, 28/03/1932</b><br/>
+        </td>
+        <td align="center">
+            <img src="./images/1932-04-02-L-Evenement.png" width="100"> <br/>
+            <b>L'Événement, 02/04/1932</b><br/>
+        </td>
+        <td align="center">
+            <img src="./images/1932-04-02-TheGazette.png" width="100"><br/>
+            <b>The Gazette, 02/04/1932</b><br/>
+        </td>
+    </tr>
+</table>
