@@ -16,13 +16,13 @@
     <tr>
         <td>
             <img src="./images/Deposition_Theriault_p01.png">
-            <b>Amédée Thériault's deposition, page 1.</b><br/>    
-            <i>Déposition d'Amedée Thériault, page 1.</i>
+            <b>Amédée Thériault's deposition, p.1.</b><br/>    
+            <i>Déposition d'Amedée Thériault, p.1.</i>
         </td>
         <td>
             <img src="./images/Deposition_Theriault_p02.png">
-            <b>Amédée Thériault's deposition, page 2.</b><br/>    
-            <i>Déposition d'Amedée Thériault, page 2.</i>
+            <b>Amédée Thériault's deposition, p.2.</b><br/>    
+            <i>Déposition d'Amedée Thériault, p.2.</i>
         </td>
         <td>
             <img src="./images/Deposition_Daigneault.png">
