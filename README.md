@@ -5,10 +5,12 @@
 <h2>A Masonic Mystery in the Heart of Old Quebec</h2>
 
 
-## The Coroner's Investigation Report
-## Le rapport du coroner 
+## **The Coroner's Investigation Report**
+## *Le rapport du coroner* 
 
-Click on the thumbnail to view an enlarged image. 
+**Click on the thumbnail to view an enlarged image.**
+
+*Cliquez sur la vignette pour agrandir l'image.*
 
 <table>
     <tr>
