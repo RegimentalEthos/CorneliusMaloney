@@ -7,6 +7,10 @@
 ## Service Files WWI 
 ## Documents de service militaire 1ere Guerre
 
+**Click on the thumbnail to view an enlarged image.**
+
+*Cliquez sur la vignette pour agrandir l'image.*
+
 <table>
     <tr>
         <td align="center">
