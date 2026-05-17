@@ -15,7 +15,7 @@
 <table>
     <tr>
         <td>
-            <img src="./images/Deposition_Theriault_p01.png" width="400"> <br/>
+            <img src="./images/Deposition_Theriault_p01.png" width="100"> <br/>
             <b>Amédée Thériault's depos., p.1.</b><br/>    
             <i>Dépos. d'Amedée Thériault, p.1.</i>
         </td>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
         <td>
-            <img src="./images/Deposition_Marcoux.png" width="400"><br/>
+            <img src="./images/Deposition_Marcoux.png" width="100"><br/>
             <b>Donat Marcoux's deposition.</b><br/>    
             <i>Déposition de Donat Marcoux.</i>
         </td>
@@ -49,7 +49,7 @@
     </tr>
     <tr>
         <td>
-            <img src="./images/Veredict_Coroner.png" width="400"><br/>
+            <img src="./images/Veredict_Coroner.png" width="100"><br/>
             <b>Coroner's Veredict.</b>
             <i>Verdict du coroner.</i> 
         </td>
