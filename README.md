@@ -4,6 +4,64 @@
 
 <h2>A Masonic Mystery in the Heart of Old Quebec</h2>
 
+## Service Files WWI 
+## Documents de service militaire 1ere Guerre
+
+<table>
+    <tr>
+        <td align="center">
+            <img src="./images/AttestationPaper-p1.gif" width="100"> <br/>
+            <b>Attestation Paper, p.1.</b><br/>    
+            <i>Document d'attestation, p.1.</i>
+        </td>
+        <td align="center">
+            <img src="./images/AttestationPaper-p2.gif" width="100"> <br/>
+            <b>Attestation Paper, p.2.</b><br/>    
+            <i>Document d'attestation, p.2.</i>
+        </td>
+        <td align="center">
+            <img src="./images/1916-06-13-3rdFieldAmbWD.jpg" width="100"> <br/>
+            <b>War Diary, 3rd Field Ambulance, June 1916.</b><br/>    
+            <i>Journal de Guerre, 3e Ambulance de Campagne, juin 1916.</i>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="./images/" width="100"> <br/>
+            <b></b><br/>    
+            <i></i>
+        </td>
+        <td align="center">
+            <img src="./images/" width="100"> <br/>
+            <b></b><br/>    
+            <i></i>
+        </td>
+        <td align="center">
+            <img src="./images/" width="100"> <br/>
+            <b></b><br/>    
+            <i></i>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="./images/" width="100"> <br/>
+            <b></b><br/>    
+            <i></i>
+        </td>
+        <td align="center">
+            <img src="./images/" width="100"> <br/>
+            <b></b><br/>    
+            <i></i>
+        </td>
+        <td align="center">
+            <img src="./images/" width="100"> <br/>
+            <b></b><br/>    
+            <i></i>
+        </td>
+    </tr>
+
+</table>
+
 
 ## **The Coroner's Investigation Report**
 ## *Le rapport du coroner* 
