@@ -14,7 +14,10 @@
 
 <table>
     <tr>
-        <td><img src="./images/Deposition_Theriault_p01.png"></td>
+        <td><img src="./images/Deposition_Theriault_p01.png">
+            <b>Amédée Thériault's deposition.</b><br/>    
+            <i>Déposition d'Amedée Thériault.</i>
+        </td>
         <td><img src="./images/Deposition_Theriault_p02.png"></td>
         <td><img src="./images/Deposition_Daigneault.png"></td>
     </tr>
