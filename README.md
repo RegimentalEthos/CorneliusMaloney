@@ -15,40 +15,44 @@
 <table>
     <tr>
         <td>
-            <img src="./images/Deposition_Theriault_p01.png">
+            <img src="./images/Deposition_Theriault_p01.png" width="400">
             <b>Amédée Thériault's depos., p.1.</b><br/>    
             <i>Dépos. d'Amedée Thériault, p.1.</i>
         </td>
         <td>
-            <img src="./images/Deposition_Theriault_p02.png">
+            <img src="./images/Deposition_Theriault_p02.png" width="200">
             <b>Amédée Thériault's depos., p.2.</b><br/>    
             <i>Dépos. d'Amedée Thériault, p.2.</i>
         </td>
         <td>
-            <img src="./images/Deposition_Daigneault.png">
+            <img src="./images/Deposition_Daigneault.png" width="150">
             <b>Louis Daigneault's deposition.</b><br/>    
             <i>Déposition de Louis Daigneault.</i>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="./images/Deposition_Marcoux.png">
+            <img src="./images/Deposition_Marcoux.png" width="400">
             <b>Donat Marcoux's deposition.</b><br/>    
             <i>Déposition de Donat Marcoux.</i>
         </td>
         <td>
-            <img src="./images/Deposition_Dr_Fisher.png">
+            <img src="./images/Deposition_Dr_Fisher.png" width="200">
             <b>Dr John H. Fisher's deposition.</b><br/>    
             <i>Déposition du Dr John H. Fisher.</i>
         </td>
         <td>
-            <img src="./images/Deposition_MacKasey.png">
+            <img src="./images/Deposition_MacKasey.png" width="150">
             <b>Frank MacKasey's deposition.</b><br/>    
             <i>Déposition de Frank MacKasey.</i>
         </td>
     </tr>
     <tr>
-        <td><img src="./images/Veredict_Coroner.png"></td>
+        <td>
+            <img src="./images/Veredict_Coroner.png" width="400">
+            <b>Coroner's Veredict.</b>
+            <i>Verdict du coroner.</i> 
+        </td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
     </tr>
