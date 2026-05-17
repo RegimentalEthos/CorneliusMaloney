@@ -1,4 +1,4 @@
-<img src="./images/Regimental Ethos-Banner.png" />
+<a href="https://github.com/RegimentalEthos"><img src="./images/Regimental Ethos-Banner.png" /></a>
 
 <h1>The Maloney Affair: Death at 51, rue des Jardins</h1>
 
@@ -83,7 +83,9 @@
 </table>
 
 
-## Quebec Carthage 
+## **Quebec Carthage** 
+
+<img src="./images/QuebecCarthage.jpg" width="50%">
 
 
 ## **The Coroner's Investigation Report** - *Le rapport du coroner* 
@@ -139,6 +141,7 @@
 </table>
 
 
-## Procès judiciaire 
+## **Judicial Procedures** - *Procès judiciaire*
 
 
+## **Media clippings** - *Coupures de journaux*
