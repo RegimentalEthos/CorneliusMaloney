@@ -4,8 +4,7 @@
 
 <h2>A Masonic Mystery in the Heart of Old Quebec</h2>
 
-## Service Files WWI 
-## Documents de service militaire 1ere Guerre
+## **Service Files WWI** - *Documents de service militaire 1ere Guerre*
 
 **Click on the thumbnail to view an enlarged image.**
 
@@ -67,8 +66,7 @@
 </table>
 
 
-## **The Coroner's Investigation Report**
-## *Le rapport du coroner* 
+## **The Coroner's Investigation Report** - *Le rapport du coroner* 
 
 **Click on the thumbnail to view an enlarged image.**
 
