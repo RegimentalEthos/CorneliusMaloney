@@ -14,13 +14,9 @@
     <tr>
         <td align="center">
             <img src="./images/CorneliusViolet.png" width="400"> <br/>
-            <b>Attestation Paper, p.1.</b><br/>    
-            <i>Document d'attestation, p.1.</i>
         </td>
         <td align="center">
             <img src="./images/Violet.jpg" width="300"> <br/>
-            <b>Attestation Paper, p.2.</b><br/>    
-            <i>Document d'attestation, p.2.</i>
         </td>
     </tr>
 </table>
