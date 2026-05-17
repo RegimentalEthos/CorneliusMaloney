@@ -5,7 +5,10 @@
 <h2>A Masonic Mystery in the Heart of Old Quebec</h2>
 
 
-## The Coroner's 
+## The Coroner's Investigation Report
+## Le rapport du coroner 
+
+Click on the thumbnail to view an enlarged image. 
 
 <table>
     <tr>
@@ -20,7 +23,7 @@
     </tr>
     <tr>
         <td><img src="./images/Veredict_Coroner.png"></td>
-        <td><img src="./images/"></td>
-        <td><img src="./images/"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
 </table>
