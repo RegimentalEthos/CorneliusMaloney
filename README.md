@@ -18,7 +18,7 @@
             <i>Document d'attestation, p.1.</i>
         </td>
         <td align="center">
-            <img src="./images/Violet.jpg" width="400"> <br/>
+            <img src="./images/Violet.jpg" width="300"> <br/>
             <b>Attestation Paper, p.2.</b><br/>    
             <i>Document d'attestation, p.2.</i>
         </td>
