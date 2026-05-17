@@ -4,6 +4,27 @@
 
 <h2>A Masonic Mystery in the Heart of Old Quebec</h2>
 
+## Cornelius Maloney & Violet Glover Maloney
+
+**Click on the thumbnail to view an enlarged image.**
+
+*Cliquez sur la vignette pour agrandir l'image.*
+
+<table>
+    <tr>
+        <td align="center">
+            <img src="./images/CorneliusViolet.png" width="400"> <br/>
+            <b>Attestation Paper, p.1.</b><br/>    
+            <i>Document d'attestation, p.1.</i>
+        </td>
+        <td align="center">
+            <img src="./images/Violet.jpg" width="400"> <br/>
+            <b>Attestation Paper, p.2.</b><br/>    
+            <i>Document d'attestation, p.2.</i>
+        </td>
+    </tr>
+</table>
+
 ## **Service Files WWI** - *Documents de service militaire 1ere Guerre*
 
 **Click on the thumbnail to view an enlarged image.**
@@ -66,6 +87,9 @@
 </table>
 
 
+## Quebec Carthage 
+
+
 ## **The Coroner's Investigation Report** - *Le rapport du coroner* 
 
 **Click on the thumbnail to view an enlarged image.**
@@ -117,4 +141,8 @@
         <td>&nbsp;</td>
     </tr>
 </table>
+
+
+## Procès judiciaire 
+
 
