@@ -181,7 +181,7 @@ District de Québec
 
 En présence de  Docteur Jules Vallée, coroner du district de Québec et des jurés assermentés pour les fins de l'enquête sur la mort de Cornelius Maloney mort à Québec, (nom du témoin) Amédée Thériault, (profession) chauffeur de taxi, de (domicile) Québec âgé de 36 ans, étant dûment assermenté sur les Saints Évangiles, dépose et dis: 
 
-Dimanche le 28 déc. 1930 vers 1.30 a.m. je reçus instruction de M. Beaumont qui venait de répondre au téléphone à notre agent qui demandait 2 taxis au no 51 rue des Jardins à l'Édifice Maçonnique. Je me rendis immédiatement de la Place d'Armes à la rue Desjardins où je fus rendu environ 2 min après. J'entrai dans l'Édifice et je vis au pied de l'escalier, entre la porte d'entrée, le corps du défunt étendu en travers, la tête dirigée vers le nord et les pieds vers le sud. Je retournai pour avertir le chauffeur Daigneau qui venait d'arriver avec un taxi avec moi et tous deux nous avons soulevé le défunt. En ce faisant je vis qu'il avait du sang répandu sur ses habits et qu'il y en avait à terre. J'entendais de la musique à l'étage supérieur car il y avait-là une soirée. Quelques personnes descendèrent et constatèrent ce que je venais de voir. Nous avons appellé un docteur, le Dr Fisher. Lorsque je lui détachai son collet pour lui permettre de respirer le défunt râlait. Et a signé. 
+Dimanche le 28 déc. 1930 vers 1.30 a.m. je reçus instruction de M. Beaumont qui venait de répondre au téléphone à notre agent qui demandait 2 taxis au no 51 rue des Jardins à l'Édifice Maçonnique. Je me rendis immédiatement de la Place d'Armes à la rue des Jardins où je fus rendu environ 2 min après. J'entrai dans l'Édifice et je vis au pied de l'escalier, entre la porte d'entrée, le corps du défunt étendu en travers, la tête dirigée vers le nord et les pieds vers le sud. Je retournai pour avertir le chauffeur Daigneau qui venait d'arriver avec un taxi avec moi et tous deux nous avons soulevé le défunt. En ce faisant je vis qu'il avait du sang répandu sur ses habits et qu'il y en avait à terre. J'entendais de la musique à l'étage supérieur car il y avait-là une soirée. Quelques personnes descendèrent et constatèrent ce que je venais de voir. Nous avons appellé un docteur, le Dr Fisher. Lorsque je lui détachai son collet pour lui permettre de respirer le défunt râlait. Et a signé. 
 
 (Signé) Amédée Thériault
 
@@ -223,9 +223,10 @@ Dimanche le 28 Dec. 1930 vers 1. a.m. j'étais au bureau répondant aux appels t
 
 Assermenté devant-moi ce vingt-neuvième jour de décembre mil neuf cent trente. 
 
-[Signature: Jules Vallée]    
+Jules Vallée   
 Coroner du dist. de Quebec    
-[Signature: Donat Marcoux]   
+
+(Signé) Donat Marcoux  
 
 ### **Transcription Dr. John H Fisher**
 
@@ -233,7 +234,7 @@ CANADA
 PROVINCE DE QUÉBEC   
 District de Québec   
 
-En présence de  Docteur Jue Vallée, coroner du district de Québec et des jurés assermentés pour les fins de l'enquête sur la mort de Cornelius Maloney mort à Québec, (nom du témoin) Dr. John G Fisher, (profession) médecin, de (domicile) Québec âgé de 28 ans, étant dûment assermenté sur les Saints Évangiles, dépose et dis:  
+En présence de  Docteur Jules Vallée, coroner du district de Québec et des jurés assermentés pour les fins de l'enquête sur la mort de Cornelius Maloney mort à Québec, (nom du témoin) Dr. John G Fisher, (profession) médecin, de (domicile) Québec âgé de 28 ans, étant dûment assermenté sur les Saints Évangiles, dépose et dis:  
 
 Dimanche le 28 déc. 1930 vers 1.20 a.m. je fus appelé au no. 51 des Jardins dans l'Édifice Maçonnique afin de prodiguer des soins au défunt. À mon arrivée je vis celui-ci étendu sur le plancher au pied d'un escalier. Du sang s'écoulait de son oreille gauche. Il était mort. Je fis l'examen externe du cadavre. Il ne portait aucune marque de violence externe si ce n'est qu'une contusion surmontant un hématome du côté gauche de son occipital. Cause de la mort: fracture de la base du crâne. Je la signe. 
 
@@ -251,7 +252,7 @@ CANADA
 PROVINCE DE QUÉBEC   
 District de Québec   
 
-En présence de  Docteur Jue Vallée, coroner du district de Québec et des jurés assermentés pour les fins de l'enquête sur la mort de Cornelius Maloney mort à Québec, (nom du témoin) Frank MacKasey de (domicile) Québec âgé de 44 ans, étant dûment assermenté sur les Saints Évangiles, dépose et dis. 
+En présence de  Docteur Jules Vallée, coroner du district de Québec et des jurés assermentés pour les fins de l'enquête sur la mort de Cornelius Maloney mort à Québec, (nom du témoin) Frank MacKasey de (domicile) Québec âgé de 44 ans, étant dûment assermenté sur les Saints Évangiles, dépose et dis. 
 
 Le corps qui fait sujet de cette enquête est celui de mon beau-frère Cornelius Maloney âgé de 36 ans, demeurant au no. 129 Jeanne d'Arc, marié, père de 2 enfants. Son occupation est agent de voitures de transport. Dimanche matin le 28 décembre 1930 vers 2.20 a.m. je reçois un appel téléphonique que mon beau frère venait d'être trouvé mort sur le plancher au pied d'un escalier de l'Édifice Masonic, rue des Jardins, ou il était allé à un banquet. Je la signe. 
 
