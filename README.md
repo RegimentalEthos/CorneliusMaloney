@@ -1,5 +1,9 @@
 <a href="https://github.com/RegimentalEthos"><img src="./images/Regimental Ethos-Banner.png" /></a>
 
+<b>** English text in bold characters.</b>
+
+<i>** Texte français en italique.</i>
+
 <h1>The Maloney Affair: Death at 51, rue des Jardins</h1>
 
 <h2>A Masonic Mystery in the Heart of Old Quebec</h2>
