@@ -366,4 +366,17 @@ Coroner du district de Québec
 
 *Cliquez sur la vignette pour agrandir l'image.*
 
+## Tombstone - Sépulture
+
+<b>Brother Maloney was laid to rest and lies in peace at Mount Hermon Cemetery in Sillery, Quebec. His grave is located in Section H of the cemetery, under burial number 11587.
+
+I visited his grave, which is situated near that of Brother Charles Alexander Young. Here is a photograph of his gravestone.</b>
+
+<i> Le frère Maloney a été inhumé et repose en paix au cimetière Mount Hermon, à Sillery, Québec. Sa sépulture se localise à la section H du cimitière, sous le numéro d'inhumation 11587. 
+
+Je me suis rendu sur sa tombe, qui se trouve près de celle de frère Charles Alexander Young. Voici une photo de sa pierre tombale. </i>
+
+<img src="./images/Headstone-11587-1.JPG" width="800" />
+
+
 ----
