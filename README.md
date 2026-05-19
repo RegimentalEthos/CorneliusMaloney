@@ -398,7 +398,7 @@ Please include, where possible, the soldier’s full name, date and place of bir
 
 *Honouring service through research. Preserving memory through record.*
 
-## Français
+----
 
 Si vous souhaitez obtenir des renseignements sur notre processus de recherche, discuter d’un projet commémoratif éventuel ou demander des informations complémentaires, n’hésitez pas à nous contacter.
 
