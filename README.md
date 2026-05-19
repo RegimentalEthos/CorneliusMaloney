@@ -387,8 +387,7 @@ Je me suis rendu sur sa tombe, qui se trouve près de celle de frère Charles Al
 
 Should you wish to inquire about our research process, discuss a prospective commemorative project, or request further information, correspondence is welcomed.
 
-**Julio Cesar Torres**    
-*Founder, Regimental Ethos*
+**Julio Cesar Torres**, *Founder, Regimental Ethos*
 
 Québec, QC, Canada
 
@@ -403,8 +402,7 @@ Please include, where possible, the soldier’s full name, date and place of bir
 
 Si vous souhaitez obtenir des renseignements sur notre processus de recherche, discuter d’un projet commémoratif éventuel ou demander des informations complémentaires, n’hésitez pas à nous contacter.
 
-**Julio Cesar Torres**    
-*Fondateur, Regimental Ethos*
+**Julio Cesar Torres**, *Fondateur, Regimental Ethos*
 
 Québec, QC, Canada
 
