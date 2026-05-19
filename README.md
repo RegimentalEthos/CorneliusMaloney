@@ -380,3 +380,37 @@ Je me suis rendu sur sa tombe, qui se trouve près de celle de frère Charles Al
 
 
 ----
+
+# Inquiries & Correspondence 
+
+** *Le texte en français suit plus en bas.*
+
+Should you wish to inquire about our research process, discuss a prospective commemorative project, or request further information, correspondence is welcomed.
+
+**Julio Cesar Torres**    
+*Founder, Regimental Ethos*
+
+Québec, QC, Canada
+
+Email: juliozohar@gmail.com   
+Telephone: 581-307-7882
+
+Please include, where possible, the soldier’s full name, date and place of birth and any known details of service, regiment, or dates, so that an initial assessment may be undertaken with due care.
+
+*Honouring service through research. Preserving memory through record.*
+
+## Français
+
+Si vous souhaitez obtenir des renseignements sur notre processus de recherche, discuter d’un projet commémoratif éventuel ou demander des informations complémentaires, n’hésitez pas à nous contacter.
+
+**Julio Cesar Torres**    
+*Fondateur, Regimental Ethos*
+
+Québec, QC, Canada
+
+Courriel : juliozohar@gmail.com    
+Téléphone : 581-307-7882
+
+Veuillez indiquer, dans la mesure du possible, le nom complet du soldat, sa date et son lieu de naissance, ainsi que tout renseignement connu concernant son service, son régiment ou ses dates de service, afin qu’une première évaluation puisse être effectuée avec le soin nécessaire.
+
+*Honorer le service par la recherche. Préserver la mémoire par les archives.*
