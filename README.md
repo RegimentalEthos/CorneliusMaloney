@@ -71,7 +71,7 @@ https://advitam.banq.qc.ca/notice/316442?navFonds=true
         <td align="center">
             <a href="./images/QMHA-Elevation.JPG">
                 <img src="./images/QMHA-Elevation.JPG" width="400"> <br/>
-                <b>Elevation Garden Street</b>
+                <b>Elevation Garden Street</b> <br/>
                 <i>Elévation sur la rue des Jardins</i>
             </a>
         </td>
