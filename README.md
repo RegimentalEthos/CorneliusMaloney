@@ -40,6 +40,46 @@ La défense a toutefois contredit l’argument de la poursuite, appuyée par plu
 Le litige a été tranché le 1er avril 1932 par le juge-en-chef Sir François Lemieux, qui a prononcé le renvoi de l'action avec dépens, les coûts du procès revenant à la veuve. Le tribunal a estimé que la preuve de la dangerosité de l'escalier n'était pas établie, soulignant l'absence de plaintes ou d'accidents antérieurs. Le jugement a retenu que le pardessus de l'intéressé n'était pas attaché lors de la découverte du corps, suggérant que cette condition vestimentaire aurait pu être le facteur déterminant de la chute . À la suite de cette décision, aucune mention supplémentaire relative à cette affaire n'a été consignée dans les procès-verbaux de la loge.
 </i>
 
+## Architectural plans - Plans architecturaux
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="./images/IMG_0976.JPG.JPG">
+                <img src="./images/IMG_0976.JPG" width="400"> <br/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="./images/IMG_0972.JPG">
+                <img src="./images/IMG_0972.JPG" width="300"> <br/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="./images/IMG_0974JPG">
+                <img src="./images/IMG_0974.JPG" width="300"> <br/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="./images/IMG_0959.JPG">
+                <img src="./images/IMG_0959.JPG" width="400"> <br/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="./images/IMG_0979.JPG">
+                <img src="./images/IMG_0979.JPG" width="300"> <br/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="./images/IMG_0980.JPG">
+                <img src="./images/IMG_0980.JPG" width="300"> <br/>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
 ## Cornelius Maloney & Violet Glover Maloney
 
 <table>
