@@ -54,7 +54,7 @@ The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who
             </a>
         </td>
         <td align="center">
-            <a href="./images/IMG_0974JPG">
+            <a href="./images/IMG_0974.JPG">
                 <img src="./images/IMG_0974.JPG" width="300"> <br/>
             </a>
         </td>
