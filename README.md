@@ -54,8 +54,8 @@ The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who
             </a>
         </td>
         <td align="center">
-            <a href="./images/QMHA-FourthStory.JPG">
-                <img src="./images/QMHA-FourthStory.JPG" width="300"> <br/>
+            <a href="./images/QMHA-FourthStory.jpg">
+                <img src="./images/QMHA-FourthStory.jpg" width="300"> <br/>
             </a>
         </td>
     </tr>
