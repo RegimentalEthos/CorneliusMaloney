@@ -10,20 +10,21 @@
 
 
 
-<b>On 28 December 1930, at around 1.30 am, a fatal accident occurred at the Masonic Hall Association building, located at 51 rue des Jardins in Quebec City. Cornelius Maloney, a member of St John’s Lodge and a transport agent employed by Quebec Carthage, fell down the well of a winding staircase whilst on the third floor—a rarely used area—to book a taxi by telephone. The body was discovered by driver Thériault at 1.32 am, who alerted the authorities after noticing that the man was in a state of acute respiratory distress. Death was officially pronounced a few minutes later by Dr John H. Fisher, who identified a fracture at the base of the skull as the primary cause, with no signs of external violence. 
+**On 28 December 1930, at around 1.30 am, a fatal accident occurred at the Masonic Hall Association building, located at 51 rue des Jardins in Quebec City. Cornelius Maloney, a member of St John’s Lodge and a transport agent employed by Quebec Carthage, fell down the well of a winding staircase whilst on the third floor—a rarely used area—to book a taxi by telephone. The body was discovered by driver Thériault at 1.32 am, who alerted the authorities after noticing that the man was in a state of acute respiratory distress. Death was officially pronounced a few minutes later by Dr John H. Fisher, who identified a fracture at the base of the skull as the primary cause, with no signs of external violence.**
 
-The inquest conducted by Coroner Jules Vallée on 29 December 1930 heard evidence from staff of the transport company and emergency services personnel. According to the evidence, the deceased fell from the landing of a winding staircase. The police reports, produced by Detectives Oscar Tanguay, Aimé Guillemette and Constable Albert Othot, concluded that it was a pure accident. The coroner’s verdict reached the same conclusion, that the death was the result of an accident.
+**The inquest conducted by Coroner Jules Vallée on 29 December 1930 heard evidence from staff of the transport company and emergency services personnel. According to the evidence, the deceased fell from the landing of a winding staircase. The police reports, produced by Detectives Oscar Tanguay, Aimé Guillemette and Constable Albert Othot, concluded that it was a pure accident. The coroner’s verdict reached the same conclusion, that the death was the result of an accident.**
 
-At the same time, a review of Maloney’s medical history in his service record with the Canadian Expeditionary Force during the Great War revealed a permanent disability resulting from injuries sustained during the Great War in 1916. The military records note “moderate weakness in both legs and systemic swelling of the lower limbs following prolonged standing, and chronic pain during changes in weather” due to the presence of shrapnel fragments in both shins, a condition which limited the deceased’s physical stability during prolonged exertion.
+**At the same time, a review of Maloney’s medical history in his service record with the Canadian Expeditionary Force during the Great War revealed a permanent disability resulting from injuries sustained during the Great War in 1916. The military records note “moderate weakness in both legs and systemic swelling of the lower limbs following prolonged standing, and chronic pain during changes in weather” due to the presence of shrapnel fragments in both shins, a condition which limited the deceased’s physical stability during prolonged exertion.**
 
-As regards his institutional affiliation, the archive records confirm that Cornelius Maloney was indeed an active member of Freemasonry, having been initiated into St John’s Lodge on 21 January 1929. On the day of the event, for the customary feast of St John the Evangelist, the lodge had organised an annual meeting in the morning and, later in the evening, the traditional ‘St John’s Night’ banquet. Following the tragedy, the organisation put in place administrative and financial support measures. In January 1931, an official motion of condolence was adopted, a letter to that effect was sent to the family, and the lodge observed a three-month period of mourning. In April 1931, the Lodge released financial assistance of $300 (equivalent to approximately $6,800 in 2026, adjusted for inflation) from the ‘Grand Lodge Benevolent Fund’ via its charitable fund to support the estate. No further mention of the lawsuit brought later appears in the lodge minutes. 
+**As regards his institutional affiliation, the archive records confirm that Cornelius Maloney was indeed an active member of Freemasonry, having been initiated into St John’s Lodge on 21 January 1929. On the day of the event, for the customary feast of St John the Evangelist, the lodge had organised an annual meeting in the morning and, later in the evening, the traditional ‘St John’s Night’ banquet. Following the tragedy, the organisation put in place administrative and financial support measures. In January 1931, an official motion of condolence was adopted, a letter to that effect was sent to the family, and the lodge observed a three-month period of mourning. In April 1931, the Lodge released financial assistance of $300 (equivalent to approximately $6,800 in 2026, adjusted for inflation) from the ‘Grand Lodge Benevolent Fund’ via its charitable fund to support the estate. No further mention of the lawsuit brought later appears in the lodge minutes.**
 
-In the legal sphere, a civil action for damages was brought by Violet J. Glover, the deceased’s widow, against the Quebec Masonic Hall Association for an initial sum of $12,348, a claim which, when adjusted for inflation using the Bank of Canada’s Inflation Calculator, amounts to nearly $270,000. The claimant argued that the condition of the staircase was “utterly defective” with worn and slippery steps, noting the absence of a handrail or guardrail at the third-floor landing, and citing maintenance reports dating back to 1870 which had already described the building’s passageways as reprehensible. 
+**In the legal sphere, a civil action for damages was brought by Violet J. Glover, the deceased’s widow, against the Quebec Masonic Hall Association for an initial sum of $12,348, a claim which, when adjusted for inflation using the Bank of Canada’s Inflation Calculator, amounts to nearly $270,000. The claimant argued that the condition of the staircase was “utterly defective” with worn and slippery steps, noting the absence of a handrail or guardrail at the third-floor landing, and citing maintenance reports dating back to 1870 which had already described the building’s passageways as reprehensible.**
 
-The defence, however, refuted the prosecution’s argument—supported by several witnesses—that the premises were in very good condition, that the staircase was not dangerous, and that no accidents had ever occurred prior to the one at issue in this trial. It also raised a point of law, arguing that Maloney had no legal justification for entering the premises outside the regular meetings of St John’s Lodge, which rented the rooms solely for specific activities.
+**The defence, however, refuted the prosecution’s argument—supported by several witnesses—that the premises were in very good condition, that the staircase was not dangerous, and that no accidents had ever occurred prior to the one at issue in this trial. It also raised a point of law, arguing that Maloney had no legal justification for entering the premises outside the regular meetings of St John’s Lodge, which rented the rooms solely for specific activities.**
 
-The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who dismissed the action with costs, the costs of the trial being borne by the widow. The court found that the evidence of the staircase’s dangerousness had not been established, noting the absence of any previous complaints or accidents. The judgment noted that the deceased’s overcoat was not fastened when the body was discovered, suggesting that this aspect of his attire might have been the determining factor in the fall. Following this decision, no further mention of this case was recorded in the lodge’s minutes.
-</b>
+**The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who dismissed the action with costs, the costs of the trial being borne by the widow. The court found that the evidence of the staircase’s dangerousness had not been established, noting the absence of any previous complaints or accidents. The judgment noted that the deceased’s overcoat was not fastened when the body was discovered, suggesting that this aspect of his attire might have been the determining factor in the fall. Following this decision, no further mention of this case was recorded in the lodge’s minutes.**
+
+----
 
 *Le 28 décembre 1930, vers 1 h 30, un incident mortel est survenu dans l'édifice de la « Masonic Hall Association », situé au 51 rue des Jardins à Québec. Cornelius Maloney, membre de la loge St. John’s  et agent de transport employé à la Quebec Carthage, a fait une chute dans le puits d'un escalier tournant alors qu'il se trouvait au troisième étage, une zone peu fréquentée, pour solliciter des services de taxi par téléphone. Le corps a été découvert par le chauffeur Thériault à 1 h 32, qui a alerté les autorités après avoir constaté que l'intéressé était en état de détresse respiratoire aiguë . Le décès a été officiellement prononcé quelques minutes plus tard par le Dr John H. Fisher, qui a identifié une fracture de la base du crâne comme cause principale, sans constatation de marques de violence externe.*
 
@@ -40,6 +41,30 @@ The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who
 *Le litige a été tranché le 1er avril 1932 par le juge-en-chef Sir François Lemieux, qui a prononcé le renvoi de l'action avec dépens, les coûts du procès revenant à la veuve. Le tribunal a estimé que la preuve de la dangerosité de l'escalier n'était pas établie, soulignant l'absence de plaintes ou d'accidents antérieurs. Le jugement a retenu que le pardessus de l'intéressé n'était pas attaché lors de la découverte du corps, suggérant que cette condition vestimentaire aurait pu être le facteur déterminant de la chute . À la suite de cette décision, aucune mention supplémentaire relative à cette affaire n'a été consignée dans les procès-verbaux de la loge.*
 
 ## Architectural plans - Plans architecturaux
+
+**The architectural plans for the temple were drawn up by the architect Edward Staveley in 1860, after he had won the competition for the Masonic Hall project.**
+
+**The plans are available at the BAnQ, in the Staveley Family Collection. The reference numbers for the Masonic Hall are listed below.** 
+
+----
+
+*Les plans d'architecture du temple ont été créés par l'architect Edward Stavely en 1860, après qu'il a gagné le councours pour le projet du Masonic Hall.*
+
+*Les plans sont disponibles à la BAnQ, dans le Fonds de la Famille Staveley. Les cotes concernant le Masonic Hall sont listées ci-bas.*
+
+---- 
+
+**Fonds Famille Staveley**
+
+https://advitam.banq.qc.ca/notice/316442?navFonds=true
+
+**Reference numbers** / *cotes*: 
+
+- P541,D44;
+- P541,D50;
+- P541,D425;
+- P541,D445; et
+- P541,D533.
 
 <table>
     <tr>
@@ -77,14 +102,14 @@ The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who
             <a href="./images/QMHA-StairDetails1.JPG">
                 <img src="./images/QMHA-StairDetails1.JPG" width="300"> <br/>
                 <b>Stair details - V Sharpe</b> <br/>
-                <i>Detailles de l'escalier - V Sharpe</i>
+                <i>Détails de l'escalier - V Sharpe</i>
             </a>
         </td>
         <td align="center">
             <a href="./images/QMHA-StairDetails2.JPG">
                 <img src="./images/QMHA-StairDetails2.JPG" width="300"> <br/>
                 <b>Stair details - V Sharpe</b> <br/>
-                <i>Detailles de l'escalier - V Sharpe</i>
+                <i>Détails de l'escalier - V Sharpe</i>
             </a>
         </td>
     </tr>
