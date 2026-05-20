@@ -45,10 +45,14 @@ Le litige a été tranché le 1er avril 1932 par le juge-en-chef Sir François L
 <table>
     <tr>
         <td align="center">
-            <img src="./images/CorneliusViolet.png" width="400"> <br/>
+            <a href="./images/CorneliusViolet.png">
+                <img src="./images/CorneliusViolet.png" width="400"> <br/>
+            </a>
         </td>
         <td align="center">
-            <img src="./images/Violet.jpg" width="300"> <br/>
+            <a href="./images/Violet.jpg">
+                <img src="./images/Violet.jpg" width="300"> <br/>
+            </a>
         </td>
     </tr>
 </table>
