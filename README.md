@@ -66,51 +66,69 @@ Le litige a été tranché le 1er avril 1932 par le juge-en-chef Sir François L
 <table>
     <tr>
         <td align="center">
-            <img src="./images/AttestationPaper-p1.gif" width="100"> <br/>
+            <a href="./images/AttestationPaper-p1.gif">
+                <img src="./images/AttestationPaper-p1.gif" width="100"> <br/>
+            </a>
             <b>Attestation Paper, p.1.</b><br/>    
             <i>Document d'attestation, p.1.</i>
         </td>
         <td align="center">
-            <img src="./images/AttestationPaper-p2.gif" width="100"> <br/>
+            <a href="./images/AttestationPaper-p2.gif">
+                <img src="./images/AttestationPaper-p2.gif" width="100"> <br/>
+            </a>
             <b>Attestation Paper, p.2.</b><br/>    
             <i>Document d'attestation, p.2.</i>
         </td>
         <td align="center">
-            <img src="./images/1916-06-13-3rdFieldAmbWD.jpg" width="100"> <br/>
+            <a href="./images/1916-06-13-3rdFieldAmbWD.jpg">
+                <img src="./images/1916-06-13-3rdFieldAmbWD.jpg" width="100"> <br/>
+            </a>
             <b>War Diary, 3rd Field Ambulance, June 1916.</b><br/>    
             <i>Journal de Guerre, 3e Ambulance de Campagne, juin 1916.</i>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="./images/ServiceFiles-p7.png" width="100"> <br/>
+            <a href="./images/ServiceFiles-p7.png">
+                <img src="./images/ServiceFiles-p7.png" width="100"> <br/>
+            </a>
             <b></b><br/>    
             <i></i>
         </td>
         <td align="center">
-            <img src="./images/ServiceFiles-p10.png" width="100"> <br/>
+            <a href="./images/ServiceFiles-p10.png">
+                <img src="./images/ServiceFiles-p10.png" width="100"> <br/>
+            </a>
             <b></b><br/>    
             <i></i>
         </td>
         <td align="center">
-            <img src="./images/ServiceFiles-p13.png" width="100"> <br/>
+            <a href="./images/ServiceFiles-p13.png">
+                <img src="./images/ServiceFiles-p13.png" width="100"> <br/>
+            </a>
             <b></b><br/>    
             <i></i>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="./images/ServiceFiles-p25.png" width="100"> <br/>
+            <a href="./images/ServiceFiles-p25.png">
+                <img src="./images/ServiceFiles-p25.png" width="100"> <br/>
+            </a>
             <b></b><br/>    
             <i></i>
         </td>
         <td align="center">
-            <img src="./images/ServiceFiles-p29.png" width="100"> <br/>
+            <a href="./images/ServiceFiles-p29.png">
+                <img src="./images/ServiceFiles-p29.png" width="100"> <br/>
+            </a>
             <b></b><br/>    
             <i></i>
         </td>
         <td align="center">
-            <img src="./images/ServiceFiles-p30.png" width="100"> <br/>
+            <a href="./images/ServiceFiles-p30.png">
+                <img src="./images/ServiceFiles-p30.png" width="100"> <br/>
+            </a>
             <b></b><br/>    
             <i></i>
         </td>
@@ -133,41 +151,55 @@ Le litige a été tranché le 1er avril 1932 par le juge-en-chef Sir François L
 <table>
     <tr>
         <td align="center">
-            <img src="./images/Deposition_Theriault_p01.png" width="100"> <br/>
+            <a href="./images/Deposition_Theriault_p01.png">
+                <img src="./images/Deposition_Theriault_p01.png" width="100"> <br/>
+            </a>
             <b>Amédée Thériault's depos., p.1.</b><br/>    
             <i>Dépos. d'Amedée Thériault, p.1.</i>
         </td>
         <td align="center">
-            <img src="./images/Deposition_Theriault_p02.png" width="100"> <br/>
+            <a href="./images/Deposition_Theriault_p02.png">
+                <img src="./images/Deposition_Theriault_p02.png" width="100"> <br/>
+            </a>
             <b>Amédée Thériault's depos., p.2.</b><br/>    
             <i>Dépos. d'Amedée Thériault, p.2.</i>
         </td>
         <td align="center">
+            <a href="./images/Deposition_Daigneault.png">
             <img src="./images/Deposition_Daigneault.png" width="100"><br/>
+            </a>
             <b>Louis Daigneault's deposition.</b><br/>    
             <i>Déposition de Louis Daigneault.</i>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="./images/Deposition_Marcoux.png" width="100"><br/>
+            <a href="./images/Deposition_Marcoux.png">
+                <img src="./images/Deposition_Marcoux.png" width="100"><br/>
+            </a>
             <b>Donat Marcoux's deposition.</b><br/>    
             <i>Déposition de Donat Marcoux.</i>
         </td>
         <td align="center">
-            <img src="./images/Deposition_Dr_Fisher.png" width="100"><br/>
+            <a href="./images/Deposition_Dr_Fisher.png">
+                <img src="./images/Deposition_Dr_Fisher.png" width="100"><br/>
+            </a>
             <b>Dr John H. Fisher's deposition.</b><br/>    
             <i>Déposition du Dr John H. Fisher.</i>
         </td>
         <td align="center">
+            <a href="./images/Deposition_MacKasey.png">
             <img src="./images/Deposition_MacKasey.png" width="100"><br/>
+            </a>
             <b>Frank MacKasey's deposition.</b><br/>    
             <i>Déposition de Frank MacKasey.</i>
         </td>
     </tr>
     <tr>
         <td align="center">
+            <a href="./images/Veredict_Coroner.png">
             <img src="./images/Veredict_Coroner.png" width="100"><br/>
+            </a>
             <b>Coroner's Veredict.</b>
             <i>Verdict du coroner.</i> 
         </td>
@@ -301,11 +333,15 @@ Coroner du district de Québec
 <table>
     <tr>
         <td align="center">
+            <a href="./images/Plumitif.jpg">
             <img src="./images/Plumitif.jpg" width="100"> <br/>
+            </a>
             <b>Plumitif, dossier # 21164</b><br/>
         </td>
         <td align="center">
+            <a href="./images/Tête Plumitif.jpg">
             <img src="./images/Tête Plumitif.jpg" width="100"> <br/>
+            </a>
             <b>Header of plumitif</b><br/>
             <i>Tête du plumitif</i><br/>
         </td>
@@ -324,43 +360,61 @@ Coroner du district de Québec
 <table>
     <tr>
         <td align="center">
-            <img src="./images/1930-12-29-LeSoleil.jpg" width="100"> <br/>
+            <a href="./images/1930-12-29-LeSoleil.jpg">
+                <img src="./images/1930-12-29-LeSoleil.jpg" width="100"> <br/>
+            </a>
             <b>Le Soleil, 29/12/1930</b><br/>
         </td>
         <td align="center">
-            <img src="./images/1930-12-30-LeSoleil.png" width="100"> <br/>
+            <a href="./images/1930-12-30-LeSoleil.png">
+                <img src="./images/1930-12-30-LeSoleil.png" width="100"> <br/>
+            </a>
             <b>Le Soleil, 30/12/1930</b><br/>
         </td>
         <td align="center">
-            <img src="./images/1931-01-10-CalgaryHerald.png" width="100"><br/>
+            <a href="./images/1931-01-10-CalgaryHerald.png">
+                <img src="./images/1931-01-10-CalgaryHerald.png" width="100"><br/>
+            </a>
             <b>The Calgary Herald, 10/01/1931</b><br/>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="./images/1932-03-23-L-Evenement.png" width="100"> <br/>
+            <a href="./images/1932-03-23-L-Evenement.png">
+                <img src="./images/1932-03-23-L-Evenement.png" width="100"> <br/>
+            </a>
             <b>L'Événement, 23/03/1932</b><br/>
         </td>
         <td align="center">
-            <img src="./images/1932-03-23-LeSoleil.png" width="100"> <br/>
+            <a href="./images/1932-03-23-LeSoleil.png">
+                <img src="./images/1932-03-23-LeSoleil.png" width="100"> <br/>
+            </a>
             <b>Le Soleil, 23/03/1931</b><br/>
         </td>
         <td align="center">
-            <img src="./images/1932-03-24-TheGazette.png" width="100"><br/>
+            <a href="./images/1932-03-24-TheGazette.png">
+                <img src="./images/1932-03-24-TheGazette.png" width="100"><br/>
+            </a>
             <b>The Gazette, 24/03/1932</b><br/>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="./images/1932-03-28-FallRiverHeraldNews.png" width="100"> <br/>
+            <a href="./images/1932-03-28-FallRiverHeraldNews.png">
+                <img src="./images/1932-03-28-FallRiverHeraldNews.png" width="100"> <br/>
+            </a>
             <b>Fall River Herald News, 28/03/1932</b><br/>
         </td>
         <td align="center">
-            <img src="./images/1932-04-02-L-Evenement.png" width="100"> <br/>
+            <a href="./images/1932-04-02-L-Evenement.png">
+                <img src="./images/1932-04-02-L-Evenement.png" width="100"> <br/>
+            </a>
             <b>L'Événement, 02/04/1932</b><br/>
         </td>
         <td align="center">
-            <img src="./images/1932-04-02-TheGazette.png" width="100"><br/>
+            <a href="./images/1932-04-02-TheGazette.png">
+                <img src="./images/1932-04-02-TheGazette.png" width="100"><br/>
+            </a>            
             <b>The Gazette, 02/04/1932</b><br/>
         </td>
     </tr>
