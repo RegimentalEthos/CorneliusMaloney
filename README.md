@@ -46,7 +46,8 @@ The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who
         <td align="center">
             <a href="./images/QMHA-Elevation.JPG">
                 <img src="./images/QMHA-Elevation.JPG" width="400"> <br/>
-                <b>Elevation rue des Jardins</b>
+                <b>Elevation Garden Street</b>
+                <i>Elévation sur la rue des Jardins</i>
             </a>
         </td>
         <td align="center">
@@ -68,7 +69,7 @@ The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who
         <td align="center">
             <a href="./images/QMHA-MainStaircase.JPG">
                 <img src="./images/QMHA-MainStaircase.JPG" width="400"> <br/>
-                <b>Plan of main staircase<b> <br/>
+                <b>Plan of main staircase</b> <br/>
                 <i>Plan de l'escalier principal</i>
             </a>
         </td>
