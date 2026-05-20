@@ -44,14 +44,14 @@ The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who
 <table>
     <tr>
         <td align="center">
-            <a href="./images/IMG_0976.JPG">
-                <img src="./images/IMG_0976.JPG" width="400"> <br/>
+            <a href="./images/QMHA-Elevation.JPG">
+                <img src="./images/QMHA-Elevation.JPG" width="400"> <br/>
                 <b>Elevation rue des Jardins</b>
             </a>
         </td>
         <td align="center">
-            <a href="./images/IMG_0972.JPG">
-                <img src="./images/IMG_0972.JPG" width="300"> <br/>
+            <a href="./images/QMHA-ThirdStory.JPG">
+                <img src="./images/QMHA-ThirdStory.JPG" width="300"> <br/>
                 <b>Third story</b> <br/>
                 <i>Troisième étage</i>
             </a>
@@ -73,15 +73,15 @@ The case was decided on 1 April 1932 by Chief Justice Sir François Lemieux, who
             </a>
         </td>
         <td align="center">
-            <a href="./images/IMG_0979.JPG">
-                <img src="./images/IMG_0979.JPG" width="300"> <br/>
+            <a href="./images/QMHA-StairDetails1.JPG">
+                <img src="./images/QMHA-StairDetails1.JPG" width="300"> <br/>
                 <b>Stair details - V Sharpe</b> <br/>
                 <i>Detailles de l'escalier - V Sharpe</i>
             </a>
         </td>
         <td align="center">
-            <a href="./images/IMG_0980.JPG">
-                <img src="./images/IMG_0980.JPG" width="300"> <br/>
+            <a href="./images/QMHA-StairDetails2.JPG">
+                <img src="./images/QMHA-StairDetails2.JPG" width="300"> <br/>
                 <b>Stair details - V Sharpe</b> <br/>
                 <i>Detailles de l'escalier - V Sharpe</i>
             </a>
