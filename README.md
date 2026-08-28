@@ -1,4 +1,4 @@
-<a href="https://github.com/RegimentalEthos"><img src="https://github.com/RegimentalEthos/.github/blob/main/images/RegimentalEthos-Logo.png" /></a>
+<a href="https://github.com/RegimentalEthos"><img src="https://github.com/RegimentalEthos/.github/blob/main/images/RegimentalEthos-Banner.png" /></a>
 
 <b>** English text in bold characters.</b>
 
